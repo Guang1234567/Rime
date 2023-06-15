@@ -1,0 +1,38 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	25
+#@/user_id	e7466dd9-898f-4254-8161-5e920bc3fe67
+ai 	愛	c=0 d=0.196042 t=25
+bao 	包	c=2 d=1.92654 t=25
+da fu 	大幅	c=0 d=0.097531 t=25
+da fu ga da ge 	大幅噶嗒個	c=1 d=0.980199 t=25
+da shi fu 	大師傅	c=0 d=0.0980199 t=25
+de 	的	c=0 d=0.391135 t=25
+de fa sheng guo de si fa guan 	的發生過的司法官	c=1 d=1 t=25
+de shi ai fa sheng 	的是愛發生	c=1 d=0.980199 t=25
+de shi fa fa di fang 	的是發發地方	c=1 d=1 t=25
+di fang 	地方	c=0 d=0.197032 t=25
+fa fa 	發發	c=0 d=0.0995012 t=25
+fa sheng 	發生	c=0 d=0.196062 t=25
+ga da 	噶嗒	c=0 d=0.097531 t=25
+ge 	個	c=0 d=0.097531 t=25
+guan ai 	關愛	c=0 d=0.0985112 t=25
+guo 	過	c=0 d=0.1 t=24
+huo 	貨	c=2 d=1.90256 t=25
+jian ti 	簡體	c=3 d=2.93605 t=25
+jing dong 	京東	c=2 d=1.89307 t=25
+la la 	拉拉	c=2 d=1.91209 t=25
+li xian 	離線	c=1 d=0.970446 t=25
+mo ren 	默認	c=1 d=0.995012 t=25
+ri me 	日麼	c=1 d=0.99005 t=25
+san ge 	三個	c=0 d=0.0985112 t=25
+shang mian 	上面	c=1 d=0.995012 t=25
+shi 	是	c=0 d=0.392097 t=25
+shi ai de guan ai de san ge 	是愛的關愛的三個	c=1 d=0.99005 t=25
+shi di fang da shi fu 	是地方大師傅	c=1 d=0.985112 t=25
+si fa guan 	司法官	c=0 d=0.1 t=24
+xiao 	笑	c=2 d=1.98506 t=25
+zheng 	鄭	c=1 d=0.985112 t=25
+zhong wen 	中文	c=1 d=0.97531 t=25
