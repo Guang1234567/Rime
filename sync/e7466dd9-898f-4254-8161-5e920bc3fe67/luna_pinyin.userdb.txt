@@ -2,62 +2,123 @@
 #@/db_name	luna_pinyin
 #@/db_type	userdb
 #@/rime_version	1.8.5
-#@/tick	42
+#@/tick	126
 #@/user_id	e7466dd9-898f-4254-8161-5e920bc3fe67
-ai 	愛	c=0 d=0.196042 t=42
-an fa 	案發	c=0 d=0.1 t=37
-an fa duo shao fen shi an di fang 	案發多少分屍案地方	c=1 d=1 t=38
-ban jiao 	半角	c=1 d=1 t=32
-bao 	包	c=2 d=1.92654 t=42
-da fu 	大幅	c=0 d=0.097531 t=42
-da fu ga da ge 	大幅噶嗒個	c=1 d=0.980199 t=42
-da shi fu 	大師傅	c=0 d=0.189037 t=42
-da shi fu di fang 	大師傅地方	c=1 d=1 t=41
-da zao 	打造	c=0 d=0.1 t=36
-da zao fa fang 	打造發放	c=1 d=1 t=37
-de 	的	c=0 d=0.557275 t=42
-de fa sheng guo de si fa guan 	的發生過的司法官	c=1 d=1 t=42
-de fa sheng guo fen de san ge 	的發生過分的三個	c=1 d=1 t=42
-de fang shi de feng kuang gong kai 	的方式的瘋狂公開	c=1 d=1 t=40
-de shi ai fa sheng 	的是愛發生	c=1 d=0.980199 t=42
-de shi fa fa di fang 	的是發發地方	c=1 d=1 t=42
-di fang 	地方	c=0 d=0.377513 t=42
-duo shao 	多少	c=0 d=0.1 t=37
-fa fa 	發發	c=0 d=0.0995012 t=42
-fa fang 	發放	c=0 d=0.1 t=36
-fa guo 	法國	c=0 d=0.1 t=38
-fa sheng 	發生	c=0 d=0.279587 t=42
-fan de sa 	范德薩	c=0 d=0.1 t=35
-fan de sa fen 	范德薩分	c=1 d=1 t=36
-fan ye 	翻頁	c=1 d=1 t=29
-fang shi 	方式	c=0 d=0.1 t=39
-fen 	分	c=0 d=0.1 t=35
-fen gong si 	分公司	c=0 d=0.1 t=38
-fen gong si fa guo 	分公司法國	c=1 d=1 t=39
-fen shi an 	分屍案	c=0 d=0.1 t=37
-feng kuang 	瘋狂	c=0 d=0.1 t=39
-ga da 	噶嗒	c=0 d=0.097531 t=42
-ge 	個	c=0 d=0.097531 t=42
-gong kai 	公開	c=0 d=0.1 t=39
-guan ai 	關愛	c=0 d=0.0985112 t=42
-guo 	過	c=0 d=0.0995012 t=42
-guo fen 	過分	c=0 d=0.1 t=41
-huo 	貨	c=2 d=1.90256 t=42
-ji ben 	基本	c=1 d=1 t=26
-jian ti 	簡體	c=4 d=3.64329 t=42
-jing dong 	京東	c=2 d=1.89307 t=42
-la la 	拉拉	c=2 d=1.91209 t=42
-li xian 	離線	c=1 d=0.970446 t=42
-mo ren 	默認	c=3 d=2.81649 t=42
-pei zhi 	配置	c=1 d=1 t=27
-ri me 	日麼	c=1 d=0.99005 t=42
-san ge 	三個	c=0 d=0.189985 t=42
-shang mian 	上面	c=1 d=0.995012 t=42
-shang xia 	上下	c=1 d=1 t=28
-shi 	是	c=0 d=0.392097 t=42
-shi ai de guan ai de san ge 	是愛的關愛的三個	c=1 d=0.99005 t=42
-shi di fang da shi fu 	是地方大師傅	c=1 d=0.985112 t=42
-si fa guan 	司法官	c=0 d=0.0995012 t=42
-xiao 	笑	c=2 d=1.98506 t=42
-zheng 	鄭	c=1 d=0.985112 t=42
-zhong wen 	中文	c=3 d=2.81744 t=42
+ai 	愛	c=0 d=0.196042 t=126
+an fa 	案發	c=0 d=0.097531 t=126
+an fa duo shao fen shi an di fang 	案發多少分屍案地方	c=1 d=0.980199 t=126
+ban jiao 	半角	c=1 d=0.951229 t=126
+bao 	包	c=3 d=2.20033 t=126
+bao 	報	c=1 d=0.697676 t=126
+bu chong 	補充	c=1 d=0.778801 t=126
+bu fen 	部分	c=1 d=0.774916 t=126
+bu liao 	不了	c=1 d=0.701173 t=126
+can yu 	參與	c=1 d=0.88692 t=126
+da fu 	大幅	c=0 d=0.097531 t=126
+da fu ga da ge 	大幅噶嗒個	c=1 d=0.980199 t=126
+da shi fu 	大師傅	c=0 d=0.189037 t=126
+da shi fu di fang 	大師傅地方	c=1 d=0.995012 t=126
+da zao 	打造	c=0 d=0.0970446 t=126
+da zao fa fang 	打造發放	c=1 d=0.97531 t=126
+dai ma 	代碼	c=1 d=0.946485 t=126
+de 	的	c=1 d=1.2107 t=126
+de fa sheng guo de si fa guan 	的發生過的司法官	c=1 d=1 t=126
+de fa sheng guo fen de san ge 	的發生過分的三個	c=1 d=1 t=126
+de fang shi de feng kuang gong kai 	的方式的瘋狂公開	c=1 d=0.99005 t=126
+de shi ai fa sheng 	的是愛發生	c=1 d=0.980199 t=126
+de shi fa fa di fang 	的是發發地方	c=1 d=1 t=126
+di fang 	地方	c=0 d=0.377513 t=126
+duan 	端	c=1 d=0.97531 t=126
+duo shao 	多少	c=0 d=0.097531 t=126
+fa fa 	發發	c=0 d=0.0995012 t=126
+fa fang 	發放	c=0 d=0.0970446 t=126
+fa guo 	法國	c=0 d=0.0980199 t=126
+fa sheng 	發生	c=0 d=0.279587 t=126
+fan de sa 	范德薩	c=0 d=0.0965605 t=126
+fan de sa fen 	范德薩分	c=1 d=0.970446 t=126
+fan ti 	繁體	c=1 d=0.680451 t=126
+fan ye 	翻頁	c=1 d=0.937067 t=126
+fan yi 	翻譯	c=1 d=0.980199 t=126
+fang an 	方案	c=2 d=1.69245 t=126
+fang shi 	方式	c=0 d=0.0985112 t=126
+fen 	分	c=0 d=0.0965605 t=126
+fen gong si 	分公司	c=0 d=0.0980199 t=126
+fen gong si fa guo 	分公司法國	c=1 d=0.985112 t=126
+fen shi an 	分屍案	c=0 d=0.097531 t=126
+feng kuang 	瘋狂	c=0 d=0.0985112 t=126
+ga da 	噶嗒	c=0 d=0.097531 t=126
+ge 	個	c=0 d=0.097531 t=126
+gei 	給	c=0 d=0.099005 t=126
+gong 	工	c=1 d=0.704688 t=126
+gong kai 	公開	c=0 d=0.0985112 t=126
+guan ai 	關愛	c=0 d=0.0985112 t=126
+guan li 	管理	c=1 d=0.767206 t=126
+guo 	過	c=0 d=0.0995012 t=126
+guo fen 	過分	c=0 d=0.0995012 t=126
+hai shi 	還是	c=1 d=0.694197 t=126
+he 	和	c=4 d=3.34675 t=126
+hui yi 	會議	c=1 d=0.900325 t=126
+hun xiao 	混淆	c=1 d=0.752014 t=126
+huo 	貨	c=5 d=3.88568 t=126
+ji 	驥	c=1 d=0.722527 t=126
+ji ben 	基本	c=1 d=0.923116 t=126
+ji cheng 	集成	c=1 d=0.951229 t=126
+ji hua 	計劃	c=1 d=0.786628 t=126
+ji zuo 	基座	c=1 d=0.733447 t=126
+jia 	家	c=1 d=0.726149 t=126
+jian ti 	簡體	c=5 d=3.64329 t=126
+jin ri 	今日	c=1 d=0.843665 t=126
+jing dong 	京東	c=5 d=3.8445 t=126
+la la 	拉拉	c=5 d=3.90515 t=126
+li xian 	離線	c=1 d=0.970446 t=126
+li xian bao 	離線包	c=3 d=2.71563 t=126
+ma fan 	麻煩	c=0 d=0.099005 t=126
+ma fan gei xia 	麻煩給下	c=1 d=0.995012 t=126
+mei le 	沒了	c=1 d=0.99005 t=126
+ming 	明	c=1 d=0.729789 t=126
+ming ri 	明日	c=1 d=0.782705 t=126
+mo hu 	模糊	c=2 d=1.98012 t=126
+mo ren 	默認	c=3 d=2.81649 t=126
+mu qian 	目前	c=1 d=0.690734 t=126
+neng fou 	能否	c=1 d=0.960789 t=126
+pao 	跑	c=1 d=0.965605 t=126
+pei he 	配合	c=1 d=0.904837 t=126
+pei zhi 	配置	c=1 d=0.927743 t=126
+pin yin 	拼音	c=1 d=1 t=126
+quan xian 	權限	c=3 d=2.74358 t=126
+ri me 	日麼	c=1 d=0.99005 t=126
+rong qi 	容器	c=4 d=3.40517 t=126
+san ge 	三個	c=0 d=0.189985 t=126
+shang 	上	c=1 d=0.687289 t=126
+shang mian 	上面	c=1 d=0.995012 t=126
+shang xia 	上下	c=1 d=0.932394 t=126
+she ji 	設計	c=2 d=1.67686 t=126
+she ji tao lun 	設計討論	c=1 d=0.895834 t=126
+shi 	是	c=0 d=0.392097 t=126
+shi ai de guan ai de san ge 	是愛的關愛的三個	c=1 d=0.99005 t=126
+shi di fang da shi fu 	是地方大師傅	c=1 d=0.985112 t=126
+shi yan 	實驗	c=1 d=0.955997 t=126
+shu chu 	輸出	c=1 d=0.826959 t=126
+si fa guan 	司法官	c=0 d=0.0995012 t=126
+tao lun 	討論	c=0 d=0.0891366 t=126
+tian jia 	添加	c=1 d=0.740818 t=126
+tong 	通	c=1 d=0.970446 t=126
+tu ran 	突然	c=1 d=0.985112 t=126
+wan cheng 	完成	c=1 d=0.847894 t=126
+wen dang 	文檔	c=1 d=0.737123 t=126
+wo 	我	c=1 d=0.70822 t=126
+xia 	下	c=0 d=0.099005 t=126
+xiang xi 	詳細	c=1 d=0.744532 t=126
+xiao 	笑	c=2 d=1.98506 t=126
+xu ai gai 	需愛改	c=1 d=0.909373 t=126
+xue 	學	c=1 d=0.790571 t=126
+yan jiu 	研究	c=2 d=1.70093 t=126
+yin 	音	c=1 d=0.99005 t=126
+ying wen 	英文	c=1 d=0.677057 t=126
+yu 	與	c=1 d=0.715338 t=126
+zai xian 	在線	c=1 d=0.913931 t=126
+zhang jie 	章節	c=1 d=0.771052 t=126
+zhe bian 	這邊	c=1 d=0.71177 t=126
+zheng 	鄭	c=2 d=1.38258 t=126
+zhong wen 	中文	c=3 d=2.81744 t=126
+zu jian 	組件	c=1 d=0.759572 t=126

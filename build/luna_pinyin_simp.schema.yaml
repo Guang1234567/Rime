@@ -5,13 +5,15 @@ __build_info:
     default.custom: 1686811919
     emoji_suggestion: 1686807403
     emoji_suggestion.custom: 0
+    fuzzy_pinyin: 1686881669
+    fuzzy_pinyin.custom: 0
     grammar: 1675621991
     grammar.custom: 0
     key_bindings: 1675621991
     key_bindings.custom: 0
     luna_pinyin.custom: 1686808578
     luna_pinyin.schema: 1675621991
-    luna_pinyin_simp.custom: 1686808557
+    luna_pinyin_simp.custom: 1686881749
     luna_pinyin_simp.schema: 1675621991
     pinyin: 1675621991
     pinyin.custom: 0
@@ -378,6 +380,13 @@ simplifier:
   option_name: zh_simp
 speller:
   algebra:
+    - "erase/^xx$/"
+    - "derive/^([zcs])h/$1/"
+    - "derive/^([zcs])([^h])/$1h$2/"
+    - "derive/([aei])n$/$1ng/"
+    - "derive/([aei])ng$/$1n/"
+    - "derive/([iu])an$/$1ang/"
+    - "derive/([iu])ang$/$1an/"
     - "abbrev/^([a-z]).+$/$1/"
     - "abbrev/^([zcs]h).+$/$1/"
     - "derive/^([nl])ve$/$1ue/"
@@ -395,13 +404,13 @@ speller:
 switches:
   - name: ascii_mode
     reset: 0
-    states: ["中文", "西文"]
+    states: ["中文", "英文"]
   - name: full_shape
     reset: 0
     states: ["半角", "全角"]
   - name: zh_simp
     reset: 1
-    states: ["漢字", "汉字"]
+    states: ["繁体", "简体"]
   - name: ascii_punct
     reset: 1
     states: ["。，", "．，"]

@@ -6,13 +6,13 @@ patch:
   switches:
     - name: ascii_mode
       reset: 0
-      states: [中文, 西文]
+      states: [中文, 英文]
     - name: full_shape
       reset: 0
       states: [半角, 全角]
     - name: zh_simp
       reset: 1
-      states: [漢字, 汉字]
+      states: [繁体, 简体]
     - name: ascii_punct
       reset: 1
       states: [。，, ．，]
@@ -20,9 +20,11 @@ patch:
   "engine/translators/@6": lua_translator@date_translator
 
 #__include: emoji_suggestion:/
-
 __patch:
   # Rx: emoji:customize:schema=luna_pinyin_simp {
   - patch/+:
       __include: emoji_suggestion:/patch
-# }
+  # }
+
+  - patch/+:
+      __include: fuzzy_pinyin:/patch
