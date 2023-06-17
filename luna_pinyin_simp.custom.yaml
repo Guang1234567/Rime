@@ -17,14 +17,18 @@ patch:
       reset: 1
       states: [。，, ．，]
 
-  "engine/translators/@6": lua_translator@date_translator
+# 载入朙月拼音扩充词库
+"translator/dictionary": luna_pinyin.extended
 
-#__include: emoji_suggestion:/
+# librime-lua 输入动态时间和日期
+"engine/translators/@6": lua_translator@date_translator
+
 __patch:
-  # Rx: emoji:customize:schema=luna_pinyin_simp {
   - patch/+:
       __include: emoji_suggestion:/patch
-  # }
 
   - patch/+:
       __include: fuzzy_pinyin:/patch
+
+  - patch/+:
+      __include: my_symbols:/patch
